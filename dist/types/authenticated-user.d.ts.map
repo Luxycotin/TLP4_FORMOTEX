@@ -1,0 +1,1 @@
+{"version":3,"file":"authenticated-user.d.ts","sourceRoot":"","sources":["../../src/types/authenticated-user.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,yBAAyB,CAAC;AAExD,MAAM,WAAW,iBAAiB;IAChC,EAAE,EAAE,MAAM,CAAC;IACX,KAAK,EAAE,MAAM,CAAC;IACd,IAAI,EAAE,MAAM,CAAC;IACb,IAAI,EAAE,QAAQ,CAAC;CAChB"}
